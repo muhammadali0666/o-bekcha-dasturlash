@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [O'zbekcha dasturlash](README.md)
+* [Docker](docker.md)
