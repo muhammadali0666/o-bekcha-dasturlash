@@ -1,5 +1,5 @@
 ---
-description: frontend haqida
+description: FRONTEND HAQIDA
 ---
 
 # Frontend
