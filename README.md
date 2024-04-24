@@ -12,4 +12,8 @@ Hozirda ish endi boshlandi va qo'ldan kelgancha saytni materiallar bilan boyitib
 
 Ushbu sayt hech qanaqa moddiyat bilan bog'liq emas bu yerda hammasi siz azizlar uchun mutloqo bepul. Ishlaringizga omad tilagan holda ishni boshlaymiz.
 
-<figure><img src=".gitbook/assets/download1.jpg" alt="IT"><figcaption></figcaption></figure>
+<div data-full-width="true">
+
+<figure><img src=".gitbook/assets/it-back.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
