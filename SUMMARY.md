@@ -2,3 +2,4 @@
 
 * [🇺🇿 O'zbekcha dasturlash](README.md)
 * [Docker](docker.md)
+* [Frontend](frontend.md)
